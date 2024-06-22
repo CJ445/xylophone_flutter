@@ -1,4 +1,4 @@
-# xylophone_flutter
+# Xylophone using Flutter
 
 A new Flutter project.
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Project Demo
+
+[xylophone-flutter-demo.webm](https://github.com/CJ445/xylophone_flutter/assets/131938772/411741e9-1f6c-463d-88af-35946d6099cf)
